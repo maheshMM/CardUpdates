@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "type": "business",
+      "title": "Tech Conference 2032",
+      "description": "A global conference for tech enthusiasts and professionals.",
+      "price": 500,
+      "currency": "USD",
+      "call_status": "active",
+      "flag": true
+    },
+    {
+      "id": "2",
+      "type": "family",
+      "title": "Weekend Picnic",
+      "description": "A fun-filled weekend picnic for families to enjoy.",
+      "price": 200,
+      "currency": "USD",
+      "call_status": "inactive"
+    },
+    {
+      "id": "3",
+      "type": "kids",
+      "title": "Summer Camp",
+      "description": "An adventure-filled summer camp for kids with exciting activities.",
+      "price": 300,
+      "currency": "USD",
+      "call_status": "active"
+    }
+  ]
+}
